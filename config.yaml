@@ -1,4 +1,4 @@
-baseURL: "https://kewll.fun/portfolio"
+baseURL: "https://portfolio.kewll.fun/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
