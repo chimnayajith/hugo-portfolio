@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://chimnayajith.github.io/hugo-portfolio/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
